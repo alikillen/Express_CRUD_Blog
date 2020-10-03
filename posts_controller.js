@@ -1,0 +1,1 @@
+// controller stores the functions used by the blog posts router.

@@ -1,0 +1,1 @@
+// router file stores the router creation for the blog posts routes.
